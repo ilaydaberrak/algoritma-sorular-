@@ -1,0 +1,2 @@
+# algoritma-sorular-
+c# 
