@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ödev1\bin\Debug\net9.0\ödev1.exe
+C:\Users\ASUS\Desktop\ödev1\bin\Debug\net9.0\ödev1.deps.json
+C:\Users\ASUS\Desktop\ödev1\bin\Debug\net9.0\ödev1.runtimeconfig.json
+C:\Users\ASUS\Desktop\ödev1\bin\Debug\net9.0\ödev1.dll
+C:\Users\ASUS\Desktop\ödev1\bin\Debug\net9.0\ödev1.pdb
+C:\Users\ASUS\Desktop\ödev1\obj\Debug\net9.0\ödev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ödev1\obj\Debug\net9.0\ödev1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ödev1\obj\Debug\net9.0\ödev1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ödev1\obj\Debug\net9.0\ödev1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ödev1\obj\Debug\net9.0\ödev1.dll
+C:\Users\ASUS\Desktop\ödev1\obj\Debug\net9.0\refint\ödev1.dll
+C:\Users\ASUS\Desktop\ödev1\obj\Debug\net9.0\ödev1.pdb
+C:\Users\ASUS\Desktop\ödev1\obj\Debug\net9.0\ödev1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ödev1\obj\Debug\net9.0\ref\ödev1.dll
